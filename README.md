@@ -1,4 +1,4 @@
-# KHUDA Archive 📈
+# 📈 KHUDA Archive
 - KHUDA 활동을 기록하기 위한 Repository
 
 ## 🐤 ML 기초 발제 정리
